@@ -36,7 +36,7 @@
         }
         else{
             echo "ERRO AO ATUALIZAR";
-            header("Location: paginicial.php");
+            header("Location: index.php");
         }
     }
     

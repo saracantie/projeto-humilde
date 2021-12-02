@@ -10,6 +10,6 @@ unset($_SESSION['nome']);
     $res = mysqli_query($con, $sql);
     
     
-    header("Location: paginicial.php?tchau");
+    header("Location: index.php?tchau");
 
 ?>

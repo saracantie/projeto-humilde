@@ -25,7 +25,7 @@
         header("Location: emprestimos.php");
         
     }else{
-        header("Location: paginicial.php?erro=1");
+        header("Location: index.php?erro=1");
         
     }
     

@@ -62,7 +62,7 @@ if(isset($_GET['id'])){
                
               <p class="centralizado">  
                 Já tem conta?
-                <a href="paginicial.php"> Ir para Login </a>
+                <a href="index.php"> Ir para Login </a>
               </p>
             </form>        
     </div>
